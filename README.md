@@ -1,4 +1,4 @@
-# stick-it-notes
+# sticky notes : - 
 
 Technology used : - HMTL, CSS and JAVASCRIPT.
 
